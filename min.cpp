@@ -9,6 +9,6 @@ int main()
     while (cin >> s){
 
         if(s==" "){
-
+            cout << "cc";
         }
     }}
